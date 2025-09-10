@@ -1,21 +1,17 @@
 ﻿#  SkyXperts UAVs club Computer Vision training sessions.
-
-## Quick Start
-
-1. Fork this repo to your GitHub account.
-2. Clone your fork to your local PC using `git clone`.
-3. Install Anaconda (or Python >= 3.6 for beginners) & OpenCV (see links below).
-4. Complete tasks in the `tasks/` folder for each session.
-5. After completing a task, push your solution to your own fork.
-
 ## Prerequisites
 - Git installed and working on your PC ([install guide](https://github.com/git-guides/install-git))
 - GitHub account
 - VS Code with Git extension (recommended)
 - Python >= 3.6
 - Opencv-Python
-
-
+## Quick Start
+1. Fork this repo to your GitHub account.
+2. Clone your fork to your local PC using `git clone`.
+3. Install Anaconda (or Python >= 3.6 for beginners) & OpenCV (see links below).
+4. Complete tasks in the `tasks/` folder for each session.
+5. After completing a task, push your solution to your own fork.
+# Sessions Overview
 ## Session 1 :
 1. install Anconda and Opencv :
     - [OpenCV-Python Installation](https://web.cecs.pdx.edu/~fliu/courses/cs410/python-opencv.html)
