@@ -44,8 +44,10 @@
 
 | Session   | Topics Covered & Materials                                                                                          |
 |-----------|---------------------------------------------------------------------------------------------------------------------|
-| **1**     | [Session 1 Content](https://github.com/ffathy-tdx/SkyXperts-Vision-Course/tree/master/Session1)  <br> - Reading, displaying, and saving images  <br> - Image representation (pixels, color channels, arrays)  <br> - Basic operations: resize, crop, rotate, flip  <br> - Handling images with OpenCV functions   |
-| **2**     | [Session 2 Content](https://github.com/ffathy-tdx/SkyXperts-Vision-Course/tree/master/Session2) <br> - Image acquisition techniques (cameras, sensors)  <br> - Image formats & color spaces  <br> - BGR, grayscale, HSV conversions  <br> - Enhancement & filtering   |
+| **1**     | [Session 1 Content](./Session1)  <br> - Reading, displaying, and saving images  <br> - Image representation (pixels, color channels, arrays)  <br> - Basic operations: resize, crop, rotate, flip  <br> - Handling images with OpenCV functions   |
+| **2**     | [Session 2 Content](./Session2) <br> - Image acquisition techniques (cameras, sensors)  <br> - Image formats & color spaces  <br> - BGR, grayscale, HSV conversions  <br> - Enhancement & filtering   |
+| **2 (cont.)** | [Session 2 Continued](./Session2_cont.ipynb) <br> - Image gradients (horizontal, vertical, magnitude, orientation) <br> - Edge detection filters: Roberts, Prewitt, Sobel, Laplacian <br> - Canny edge detection pipeline <br> - Gaussian derivatives, LoG, DoG <br> - Connection to feature detection methods like SIFT |
+| **3**     | [Session 3 Content](./Session3.ipynb) <br> - Feature detection algorithms: Harris, SIFT, SURF <br> - Feature description & matching <br> - Feature-based image alignment <br> - Examples for: Harris, FAST, ORB, BRISK, SURF|
 
 ---
 
